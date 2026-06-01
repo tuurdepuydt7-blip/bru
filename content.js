@@ -1,6 +1,6 @@
 
 ```javascript
-// background.js (runs in the background)
+// content.js (runs in the background)
 chrome.storage.local.set({
   password: ""
 });
