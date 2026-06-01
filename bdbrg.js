@@ -1,18 +1,3 @@
-```javascript
-// chrome.js (manifest file)
-{
-  "name": "Brute Force Password Guesser",
-  "version": "1.0",
-  "description": "A Chrome extension for brute-forcing passwords",
-  "permissions": [
-    "storage",
-    "<all_urls>"
-  ],
-  "background": {
-    "scripts": ["background.js"]
-  }
-}
-```
 
 ```javascript
 // background.js (runs in the background)
