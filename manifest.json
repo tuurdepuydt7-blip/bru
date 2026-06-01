@@ -1,4 +1,4 @@
-// chrome.js (manifest file)
+
 {
   "name": "Brute Force Password Guesser",
   "version": "1.0",
@@ -11,4 +11,4 @@
     "scripts": ["background.js"]
   }
 }
-```
+
